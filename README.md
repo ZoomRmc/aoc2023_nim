@@ -9,6 +9,8 @@ AoC 2023 in Nim
  - [2020](https://github.com/ZoomRmc/aoc2020_nim)
 
 ## General notes
+This year is marked with my attempt of trading the only third-party dependency used so far - [zero_functional](https://github.com/zero-functional/zero-functional) - for a new and shiny[^shiny] [slicerator/itermacros](https://github.com/beef331/slicerator) by Elegantbeef. Let's see how far it will serve me.
+
 What I'm trying to stick to while writing the solutions, in order of importance:
  - Intelligible implementation logic, clear data flow.
  - Brevity must not hurt readability.
@@ -22,6 +24,11 @@ What I'm trying to stick to while writing the solutions, in order of importance:
 > [!WARNING]
 > **Spoilers below!**
 
+### Day 4
+<details>
+<summary>The tougher part is not parsing, but choosing the right parsing tool.</summary>
+It happened to be `parseutils` for this one for me. Writing dumb procedural code makes it easy to come to the right answer, and then you waste even more time compressing it all into something a bit more elegant, trimming those numerous consecutive loops. One could say it's all just spoiling of beautiful simple instructions with conditional branching!
+</details>
 
 ### Day 3
 <details>
@@ -36,3 +43,5 @@ Learning Nim pegs pays off, though I wouldn't call actually using them neither q
 </details>
 
 ### Day 1
+
+[^shiny]: Means *probably buggy still*.
