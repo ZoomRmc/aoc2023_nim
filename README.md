@@ -25,8 +25,9 @@ What I'm trying to stick to while writing the solutions, in order of importance:
 > **Spoilers below!**
 
 ### Day 6
+The easiest day so far, so time to try something new. After years of avoiding it, I'm finally beginning to comprehend how the [`scanp`](https://nim-lang.org/docs/strscans.html#the-scanp-macro) macro is supposed to work!
 <details>
-<summary>The easiest day so far, so time to try something new. After years of avoiding it, I'm finally beginning to comprehend how the [`scanp`](https://nim-lang.org/docs/strscans.html#the-scanp-macro) macro is supposed to work!</summary>
+<summary>Day 6 spoiler</summary>
 Both iterative and analytical solution provided and in this particular case the latter is just an unnecessary complication.
 </details>
 
@@ -41,7 +42,7 @@ It happened to be `parseutils` for this one for me. Writing dumb procedural code
 ### Day 3
 <details>
 <summary>Day 3 spoiler</summary>
-One of the rare cases when using Maps (Tables) for working with grids makes more sense, due to general sparsity of the data.
+One of the rare cases when using Maps (`tables`) for working with grids makes more sense, due to general sparsity of the data.
 </details>
 
 ### Day 2
