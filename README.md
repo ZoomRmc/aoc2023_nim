@@ -24,6 +24,14 @@ What I'm trying to stick to while writing the solutions, in order of importance:
 > [!WARNING]
 > **Spoilers below!**
 
+### Day 6
+<details>
+<summary>The easiest day so far, so time to try something new. After years of avoiding it, I'm finally beginning to comprehend how the [`scanp`](https://nim-lang.org/docs/strscans.html#the-scanp-macro) macro is supposed to work!</summary>
+Both iterative and analytical solution provided and in this particular case the latter is just an unnecessary complication.
+</details>
+
+### Day 5
+
 ### Day 4
 <details>
 <summary>The tougher part is not parsing, but choosing the right parsing tool.</summary>
