@@ -24,6 +24,15 @@ What I'm trying to stick to while writing the solutions, in order of importance:
 > [!WARNING]
 > **Spoilers below!**
 
+### Day 7
+Finally a day without the parsing chore!
+<details>
+<summary>Day 7 spoiler</summary>
+Few things are as satisfying as carefully and neatly structuring your code and getting correct results on the first run! One of such things is a task with clear requirements, no hidden gotchas and sudden twists.
+
+Nim's lack of built-in pattern matching hurts a little, but not so much, considering if-expressions are not too bad to write. Just don't forget to be exhaustive and you can avoid debugging altogether!
+</details>
+
 ### Day 6
 The easiest day so far, so time to try something new. After years of avoiding it, I'm finally beginning to comprehend how the [`scanp`](https://nim-lang.org/docs/strscans.html#the-scanp-macro) macro is supposed to work!
 <details>
