@@ -24,6 +24,15 @@ What I'm trying to stick to while writing the solutions, in order of importance:
 > [!WARNING]
 > **Spoilers below!**
 
+### Day 11
+Main lesson: don't be smart, parse when you parse and do the rest later.
+
+### Day 10
+
+### Day 9
+
+### Day 8
+
 ### Day 7
 Finally a day without the parsing chore!
 <details>
