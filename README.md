@@ -24,6 +24,16 @@ What I'm trying to stick to while writing the solutions, in order of importance:
 > [!WARNING]
 > **Spoilers below!**
 
+### Day 13
+<details>
+<summary>Day 13 spoiler</summary>
+It's not totally obvious that you'll need the bit operations from Part 1, but they simplify the main loop significantly.
+
+This time I also got lazy and sacrificed a bit of memory for easier scanning through the 2D array, and rotate the matrix in its `seq[seq[bool]]` form, rather then the bits.
+</details>
+
+### Day 12
+
 ### Day 11
 Main lesson: don't be smart, parse when you parse and do the rest later.
 
