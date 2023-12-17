@@ -24,6 +24,17 @@ What I'm trying to stick to while writing the solutions, in order of importance:
 > [!WARNING]
 > **Spoilers below!**
 
+### Day 16
+<details>
+<summary>Day 16 spoiler</summary>
+The only catch is cycles created by splits. With them, unlike with mirrors, two different enter points can create one exit point. Keep track of splits getting activated and you're all *set*.
+</details>
+
+### Day 15
+
+
+### Day 14
+
 ### Day 13
 <details>
 <summary>Day 13 spoiler</summary>
